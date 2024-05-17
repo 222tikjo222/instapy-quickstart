@@ -1,5 +1,5 @@
 """
-This template is written by @cormo1990
+This template is written by @tikjoorg
 
 What does this quickstart script aim to do?
 - Basic follow/unfollow activity.
